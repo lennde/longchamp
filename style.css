@@ -5,14 +5,16 @@ body {
     padding: 0;
 }
 
-img {
+#header_img {
     margin: 0;
     padding: 0;
+    width: 800;
 }
 
 #main_text {
     padding-left: 50px;
     padding-right: 50px;
+    max-width: 800px;
 }
 
 li {
