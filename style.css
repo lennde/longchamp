@@ -19,6 +19,7 @@ body {
 
 li {
     float: left;
+    font-size: 26px;
 }
 
 li a {
